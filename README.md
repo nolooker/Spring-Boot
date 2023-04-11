@@ -1,1 +1,1 @@
-# intellij-basic
+# intellij -> MySQL
